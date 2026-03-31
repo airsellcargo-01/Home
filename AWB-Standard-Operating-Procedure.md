@@ -8,7 +8,7 @@ This document outlines the mandatory steps for completing an Air Waybill (AWB) t
 
 ## 2. Essential Flight & Routing Details
 * **Airport of Departure:** HGA (Hargeisa).
-* **Routing to:** Specify the destination airport code (e.g., ADD for Addis Ababa, DXB for Dubai).
+* **Routing to:** Specify the destination airport code (e.g., ADD for Addis Ababa, DXB for Dubai, or NBO for Nairobi).
 * **Carrier:** Ethiopian Airlines (ET) or specified carrier.
 
 ## 3. Cargo Description & Rating
